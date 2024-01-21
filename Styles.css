@@ -17,9 +17,11 @@ h1 {
 p {
     font-size: 14px;
 }
-.home{
+
+.home {
     background-color: hsl(0, 0%, 20%) !important;
 }
+
 button {
     background-color: hsl(0, 0%, 20%) !important;
     color: white !important;
@@ -34,8 +36,6 @@ img {
     display: block;
     margin: auto;
 }
-
-.home {}
 
 .card {
     background-color: hsl(0, 0%, 12%);
